@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "\n- 🐾 첫 판 — 여러 메일 계정을 한곳에 모아 봐요(구글·네이버·다음·회사 메일)\n- 목록에서 메일 첫머리를 미리 보고, 「AI」 단추로 요약해요(맥·아이폰 기기 안에서만)\n- 맥에서 아이폰으로 계정을 QR 로 옮겨요(Touch ID 로 확인)\n- 앱이 스스로 새 판을 알려 주고 업데이트해요",
+  "pub_date": "2026-11-14T13:44:31Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaWY5S3ZHMjY2WDdIRXc2NCtSeVlmNmJEWms1VnFCZ2VScjA2M1dtQ0lTb0QyNFFwbFZsTHBYR29TMUVBWm5vT25YaGxGTWhWd3UwemtMc2o2K3FhY3BjWW1zYmdyZkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjYzODQyCWZpbGU666qo7JWE66mU7J28LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQpKVjZvWW9BaUVyT0phajVWZXVIa3dqVE5yVFJXZ2FPa2ZZcHVRZjZCdFRtdXg0K1hYbW1DbkpXb1NRSFVMU2QvYUJCQko1M3hqTjBCTkc1RXprVFdCdz09Cg==",
+      "url": "https://github.com/onu-soft/moamail-releases/releases/download/v0.1.1/moamail_0.1.1_aarch64.app.tar.gz"
+    }
+  }
+}
